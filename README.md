@@ -30,6 +30,11 @@ Markdown문법 확인
 <a href="https://www.figma.com/design/cBQRz07DI1G0WFwIcTvdpW/%EB%B0%95%EC%A4%80%ED%98%95figma?node-id=0-1&t=S8NllVNkzrNHAAwB-1" target="_blank">새탭 열고 이동</a> 
 
 # 이미지
+![제목](./test.jpg)
+
+---
+
+<img src="./test.jpg" width="300" height="200" alt=""/>
 
 
 # 인용문
