@@ -26,3 +26,4 @@ Markdown문법 확인
 ---
 ## 링크 (바로가기)
 [네이버](https://naver.com)
+<a href="https://naver.com" taget="_blank">새탭 열고 이동</a>
